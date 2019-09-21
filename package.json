@@ -1,15 +1,22 @@
 {
-  "name": "JrPhase-Wk11",
+  "name": "acme_user_dpts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insibya/acme_user_dpts.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/insibya/acme_user_dpts/issues"
+  },
+  "homepage": "https://github.com/insibya/acme_user_dpts#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0"
